@@ -90,7 +90,7 @@ This project demonstrates core concepts in:
 - timing-aware digital system implementation
 
 ## Tools
-This project was developed using **Cadence VLSI design tools** for schematic design, layout, and verification.
+This project was developed using **Cadence Virtuoso VLSI design tools** for schematic design, layout, and verification.
 
 ## Project Goals
 
